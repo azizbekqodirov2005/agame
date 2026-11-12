@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://agame.uz/sitemap.xml
